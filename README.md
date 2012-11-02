@@ -1,0 +1,2 @@
+gitblit-appfactory-authentication-plugin
+========================================
